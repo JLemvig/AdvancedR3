@@ -12,11 +12,13 @@ Imports:
     rmarkdown,
     snakecase,
     stringr,
+    targets,
     tidyr,
     usethis
 Encoding: UTF-8
 Suggests: 
     gitcreds,
-    renv
+    renv,
+    styler
 URL: https://github.com/JLemvig/AdvancedR3
 BugReports: https://github.com/JLemvig/AdvancedR3/issues
