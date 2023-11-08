@@ -1,5 +1,6 @@
 ---
-title: "Draft Quarto document"
+title: "Learning advanced R!"
+Version: 0.0.1
 author: "Your Name"
 format: html
 execute:
