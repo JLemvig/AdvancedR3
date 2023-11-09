@@ -14,11 +14,16 @@ editor:
 
 ```{r setup}
 #| include: false
-knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+source(here::here("R/functions.R"))
+lipidomics <- read_csv(here::here("data/lipidomics.csv"))
 ```
 
-```{r}
-# Code chunk
+## Basic statistics
+
+```{r basic-stats}
+descriptive_stats(lipidomics)
 ```
 
 ## This is poorly formatted
