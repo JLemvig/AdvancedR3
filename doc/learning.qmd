@@ -26,6 +26,10 @@ lipidomics <- read_csv(here::here("data/lipidomics.csv"))
 descriptive_stats(lipidomics)
 ```
 
+```{r}
+
+```
+
 ## This is poorly formatted
 
 -   This is item 1
