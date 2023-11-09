@@ -22,3 +22,5 @@ Suggests:
     styler
 URL: https://github.com/JLemvig/AdvancedR3
 BugReports: https://github.com/JLemvig/AdvancedR3/issues
+Depends: 
+    tidyverse
