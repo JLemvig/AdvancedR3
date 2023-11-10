@@ -58,6 +58,7 @@ list(
     name = lipidomics,
     command = readr::read_csv(file, show_col_types = FALSE)
   ),
+
   tar_target(
     name = df_stats_by_metabolite,
     command = descriptive_stats(lipidomics)
@@ -69,5 +70,9 @@ list(
   tar_quarto(
     name = quarto_doc,
     path = "doc/learning.qmd"
+  ),
+  tar_target(
+    name = df_model_estimates,
+    command = calculate_estimates(lipidomics)
   )
 )
