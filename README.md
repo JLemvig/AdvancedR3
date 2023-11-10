@@ -12,6 +12,8 @@ editor_options:
 This is the most advanced R course, where everyone is having trouble
 installing RStudio and other packages.
 
+Check out the project's [website](https://jlemvig.github.io/AdvancedR3/)
+
 # Brief description of folder and file contents
 
 The following folders contain:
