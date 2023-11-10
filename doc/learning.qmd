@@ -1,6 +1,9 @@
 ---
 title: "Learning advanced R!"
-author: "Your Name"
+author:
+  - name: Jonas
+    affiliations:
+      - name: SDU
 format: html
 execute:
   echo: true
