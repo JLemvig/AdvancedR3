@@ -1,5 +1,5 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-.Random.seed|object|df434fc2277c7fa7|||||||||||||||
+.Random.seed|object|9f87b20db7b6bfc2|||||||||||||||
 add_original_metabolite_names|function|b2d0a2b2077da937|||||||||||||||
 calculate_estimates|function|55efcc75795c8eca|||||||||||||||
 column_values_to_snake_case|function|074e817e19db405b|||||||||||||||
@@ -17,5 +17,6 @@ metabolites_to_wider|function|8eff1105ed5e7f18|||||||||||||||
 plot_distributions|function|0f48d9095a1022c8|||||||||||||||
 plot_estimates|function|e710467c98dca542|||||||||||||||
 quarto_doc|stem|dd633e887d144581|7cedda2f4e176b77|8766cab2e049d481|1886859688|doc/learning.html*doc/learning.qmd|t19671.4216301503s|74c0491179e89281|24377|file|local|vector|||6.585||
+quarto_website|stem|4abd912714372ecf|1cc575874a62b65d|8766cab2e049d481|1602464050|_site*doc/learning.qmd*index.qmd*TODO.md*_quarto.yml|t19671.5235332004s|27b317144e9c99ab|1152330|file|local|vector|||6.309||
 split_by_metabolite|function|a2e9ee2dd226dea7|||||||||||||||
 tidy_model_output|function|4ff0d9127acce476|||||||||||||||

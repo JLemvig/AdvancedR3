@@ -7,10 +7,6 @@ author:
 format: html
 execute:
   echo: true
-editor: 
-  markdown:
-    wrap: 72
-    canonical: true
 ---
 
 ```{r setup}
